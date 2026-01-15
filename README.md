@@ -51,7 +51,7 @@ Une **vidéo de présentation** accompagne le projet afin de démontrer son fonc
 
 ---
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 - **Unity** (moteur de jeu)
 - **C#** (langage de programmation)
@@ -106,6 +106,6 @@ Ce projet représente une solution innovante pour l’apprentissage du système 
 
 Fatima Ezzahra Ghanimi
 
-Dabachin Jamila
+Jamila dabachine
 
 
